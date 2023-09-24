@@ -1,0 +1,13 @@
+Introduction to wireless and Mobile Networking:Homework1
+Author:B08501011 何子勤
+--------------------------------------------------------------------
+There should be one .cpp file and one .exe file for each 
+question(total four), use terminal to output data.
+
+For example: 
+./question1-1 > output1-1.csv
+
+After operate the command, you should get a csv file of data.
+Open the csv file in excel and plot the graph, and then you should 
+get the result similar to the report.
+(question2 use random generator, so it might be a little bit different.) 
